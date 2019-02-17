@@ -1,2 +1,3 @@
 # Google-HomePage
-Its the replica of google home page using css.
+Its The Replica Of Google HomePage Template Using Basic HTML and CSS.
+
